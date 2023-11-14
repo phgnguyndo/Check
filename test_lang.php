@@ -1,1 +1,1 @@
-<?php system('ls'); ?>
+<?= system('ls'); ?>
